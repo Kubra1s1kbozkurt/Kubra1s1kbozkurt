@@ -1,4 +1,4 @@
-![MasterHead](https://www.edubridgeindia.com/blog/wp-content/uploads/2022/01/data_analytics-scaled.jpg)
+[![MasterHead](https://www.edubridgeindia.com/blog/wp-content/uploads/2022/01/data_analytics-scaled.jpg)
 
 
 <h1 align="center">Hi 👋, I'm Kübra</h1>
